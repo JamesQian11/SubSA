@@ -40,7 +40,7 @@ Run Code:
         --seed 1  \
 	```
 ### Performance
-![Performance](img/performance.png)
+![Performance](img/performance1.png)
 
 ### Citation
 
