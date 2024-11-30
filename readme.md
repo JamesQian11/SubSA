@@ -1,6 +1,6 @@
 ## Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation
 
-
+Published Paper: https://arxiv.org/abs/2407.05693
 
 	```
         python main.py  \
