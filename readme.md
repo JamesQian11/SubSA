@@ -39,4 +39,19 @@ Run Code:
         --model_name EleutherAI/gpt-j-6B \
         --seed 1  \
 	```
+### Performance
+![Performance](img/performance.png)
+
+### Citation
+
+```
+@article{qian2024sub,
+  title={Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation},
+  author={Qian, Jian and Sun, Miao and Zhou, Sifan and Zhao, Ziyu and Hun, Ruizhi and Chiang, Patrick},
+  journal={arXiv preprint arXiv:2407.05693},
+  year={2024}
+}
+```
+
+
 
