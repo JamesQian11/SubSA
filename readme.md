@@ -2,6 +2,8 @@
 
 Published ECAI 2024 : https://arxiv.org/abs/2407.05693
 
+[Pipeline](img/pipeline.pdf)
+
 
 Run Code:
 
