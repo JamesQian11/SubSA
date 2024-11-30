@@ -3,6 +3,7 @@
 Published ECAI 2024 : https://arxiv.org/abs/2407.05693
 
 ![Pipeline](img/pipeline.pdf)
+<iframe src="img/pipeline.pdf" width="100%" height="500px"></iframe>
 
 
 Run Code:
