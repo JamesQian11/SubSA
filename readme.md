@@ -1,6 +1,6 @@
 ## Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation
 
-ECAI 2024 : https://arxiv.org/abs/2407.05693
+Paper Link: https://arxiv.org/abs/2407.05693
 
 ### Abstract
 In-context learning (ICL) leverages in-context examples
