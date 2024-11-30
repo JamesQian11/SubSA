@@ -1,4 +1,4 @@
-## Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation
+# Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation
 
 Paper Link: https://arxiv.org/abs/2407.05693
 
