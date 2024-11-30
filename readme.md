@@ -53,14 +53,9 @@ Run Code:
 
 Cite: 
 
-    '''
-@article{qian2024sub,
+    '''@article{qian2024sub,
   title={Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation},
   author={Qian, Jian and Sun, Miao and Zhou, Sifan and Zhao, Ziyu and Hun, Ruizhi and Chiang, Patrick},
   journal={arXiv preprint arXiv:2407.05693},
   year={2024}
-}
-
-
-
-    '''
+}'''
