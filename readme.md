@@ -2,7 +2,7 @@
 
 ECAI 2024 : https://arxiv.org/abs/2407.05693
 
-### ABSTRACT
+### Abstract
 In-context learning (ICL) leverages in-context examples
 as prompts for the predictions of Large Language Models (LLMs).
 These prompts play a crucial role in achieving strong performance.
@@ -17,7 +17,7 @@ datasets demonstrate the superiority of Sub-SA over previous methods, achieving 
 performance gains. The efficiency and effectiveness of Sub-SA make
 it highly suitable for real-world ICL scenarios.
 
-### PIPELINE
+### Pipeline
 ![pipeline](img/pipeline.png)
 
 ### SubSA
